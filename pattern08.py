@@ -23,7 +23,3 @@ def func(n, star='*'):
             print(space, end='')
 
         print()
-
-
-n = 5
-func(n)

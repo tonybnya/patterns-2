@@ -38,7 +38,3 @@ def func(n, star='*'):
             for j in range(2 * n - i - 1):
                 print(space, end='')
         print()
-
-
-n = 5
-func(n)

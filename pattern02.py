@@ -15,7 +15,3 @@ def func(n, star='*'):
             print(star, end='')
         # when each row is printed, add a newline
         print()
-
-
-n = 5
-func(n)

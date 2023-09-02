@@ -41,7 +41,3 @@ def func(n, star='*'):
             for j in range(n - i):
                 print(space, end='')
         print()
-
-
-n = 4
-func(n)

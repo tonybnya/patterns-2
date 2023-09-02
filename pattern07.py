@@ -18,7 +18,3 @@ def func(n, star='*'):
         for j in range(n - i):
             print(star, end='')
         print()
-
-
-n = 5
-func(n)
